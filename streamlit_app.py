@@ -1,4 +1,5 @@
 import streamlit
 
 streamlit.title ('My Parent\'s Healthy Dinner')
-streamlit.header ('Breakfas Menu \nBreakfast menu 2')
+streamlit.header ('Breakfast Menu')
+streamlit.text('Omega 3 Blueberry Oatmeal\n test')
